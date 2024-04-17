@@ -1,0 +1,8 @@
+
+Observations on the Impact of Test Preparation Course on Math Scores by Gender:
+  
+  - Male students who completed the test preparation course tend to have higher average math scores compared to those who did not.
+  
+  - Female students also show a positive trend, with higher average math scores for those who completed the test preparation course.
+
+These observations suggest that the test preparation course may contribute to improved math performance for both male and female students.

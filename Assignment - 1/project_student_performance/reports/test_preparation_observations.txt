@@ -1,0 +1,16 @@
+
+Observations on the Impact of Test Preparation Course on Scores:
+
+1. Math Scores:
+  - Students who completed the test preparation course generally scored higher in math compared to those who did not.
+  - This is evident from the higher median and quartiles in the box plot for math scores among students who completed the course.
+
+2. Reading Scores:
+  - Similar to math, students who completed the test preparation course tend to have higher reading scores.
+  - The box plot for reading scores shows higher median and quartiles for students who completed the course.
+
+3. Writing Scores:
+  - The positive impact of the test preparation course is also observed in writing scores.
+  - Students who completed the course have higher median and quartiles in the box plot for writing scores.
+
+Overall, these findings suggest a noticeable improvement in scores for students who completed the test preparation course across all subjects. This implies that the course may be effective in enhancing student performance.

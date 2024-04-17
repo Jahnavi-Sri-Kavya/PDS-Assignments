@@ -1,0 +1,12 @@
+
+Observations on Gender-Based Performance:
+
+1. Math Scores:
+   - Male students tend to score higher in math compared to female students.
+   - This is evident from the higher median and quartiles in the box plot for math scores among male students.
+
+2. Reading and Writing Scores:
+   - Female students tend to score more in reading and writing compared to male students.
+   - This observation is supported by higher median and quartiles in the box plots for reading and writing scores among female students.
+
+These findings suggest a gender-based difference in performance across subjects, with male students excelling in math and female students performing better in reading and writing.

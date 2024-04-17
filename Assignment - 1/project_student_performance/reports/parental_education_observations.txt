@@ -1,0 +1,12 @@
+
+Observations on the Relationship Between Parental Education Levels and Student Scores:
+
+1. Parents with a master's degree:
+  - Their children tend to have the highest scores (70 and above) in math, reading, and writing.
+  - This observation is consistent across all three subjects.
+
+2. Parents with a high school education:
+  - Their children tend to have the least scores across math, reading, and writing.
+  - The scores are notably lower compared to other parental education levels.
+
+These findings suggest a positive correlation between the level of parental education and the academic performance of students. Higher parental education levels, especially having a master's degree, appear to be associated with higher student scores, while lower education levels, such as having only a high school education, are associated with lower scores.
